@@ -1,0 +1,6 @@
+# VS code files
+.vscode/
+
+# Workspace files
+*.code-workspace
+
