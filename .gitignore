@@ -4,3 +4,10 @@
 # Workspace files
 *.code-workspace
 
+# Files
+*.pt
+*.DS_Store
+
+# Folder
+data/
+
